@@ -1,29 +1,22 @@
-<h1 align="center">Hi 👋, I'm Mohanad Elkheshen</h1>
+<h1 align="center">Hi 👋, I'm Mohanad Ahmed</h1>
 
 <h3 align="center">
-Artificial Intelligence Student | Future AI Engineer
+Artificial Intelligence Student | Machine Learning Engineer in Progress
 </h3>
 
 <p align="center">
-Passionate about Machine Learning, Deep Learning, Generative AI, NLP, Computer Vision and MLOps.
+Passionate about Machine Learning, Deep Learning, Generative AI, NLP, Computer Vision, Data Science, and MLOps.
 </p>
 
 <p align="center">
-Building my journey toward becoming a world-class AI Engineer and contributing to intelligent systems and robotics.
+Building intelligent systems, AI applications, and preparing for a professional career in Artificial Intelligence.
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 Artificial Intelligence Student
-- 🐍 Python Developer
-- 📊 Data Analysis & Data Science Enthusiast
-- 🤖 Focused on Machine Learning & Deep Learning
-- 🧠 Interested in LLMs, RAG Systems and AI Agents
-- 👁️ Exploring Computer Vision & NLP
-- ⚙️ Learning MLOps and AI Deployment
-- 🌍 Seeking global AI opportunities
+<p align="center">
+<a href="https://komarev.com/ghpvc/?username=Mohanad-Ahmed">
+<img src="https://komarev.com/ghpvc/?username=Mohanad-Ahmed&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</a>
+</p>
 
 ---
 
@@ -36,16 +29,34 @@ Building my journey toward becoming a world-class AI Engineer and contributing t
 </a>
 
 <a href="https://www.linkedin.com/in/mohanad-elkheshen-91405434b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Mohanad-Ahmed">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+## 🚀 About Me
+
+* 🎓 Artificial Intelligence Student
+* 🐍 Python Developer
+* 📊 Data Analysis & Data Science Enthusiast
+* 🤖 Focused on Machine Learning & Deep Learning
+* 🧠 Interested in LLMs, RAG Systems, AI Agents, and Generative AI
+* 👁️ Exploring Computer Vision and NLP
+* ⚙️ Learning MLOps and AI Deployment
+* 🌍 Looking for Global AI Opportunities
+* 🚀 Building End-to-End AI Projects
+
+---
+
 ## 💻 Programming Languages
 
-<p>
+<p align="left">
 
 <a href="https://www.python.org/">
 <img src="https://skillicons.dev/icons?i=python" />
@@ -65,14 +76,14 @@ Building my journey toward becoming a world-class AI Engineer and contributing t
 
 ## 📊 Data Analysis & Visualization
 
-<p>
+<p align="left">
 
 <a href="https://pandas.pydata.org/">
-<img src="https://skillicons.dev/icons?i=python" height="48"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </a>
 
 <a href="https://numpy.org/">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </a>
 
 <a href="https://matplotlib.org/">
@@ -84,27 +95,31 @@ Building my journey toward becoming a world-class AI Engineer and contributing t
 </a>
 
 <a href="https://plotly.com/">
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </a>
 
 <a href="https://jupyter.org/">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 🤖 Machine Learning & AI
+## 🤖 Machine Learning & Deep Learning
 
-<p>
+<p align="left">
 
 <a href="https://scikit-learn.org/">
-<img src="https://skillicons.dev/icons?i=sklearn"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</a>
+
+<a href="https://www.tensorflow.org/">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </a>
 
 <a href="https://pytorch.org/">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </a>
 
 </p>
@@ -113,59 +128,95 @@ Building my journey toward becoming a world-class AI Engineer and contributing t
 
 ## 🚀 Deployment & MLOps
 
-<p>
+<p align="left">
 
 <a href="https://streamlit.io/">
-<img src="https://skillicons.dev/icons?i=streamlit"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
 <a href="https://flask.palletsprojects.com/">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </a>
 
 <a href="https://fastapi.tiangolo.com/">
-<img src="https://skillicons.dev/icons?i=fastapi"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </a>
 
 <a href="https://www.docker.com/">
-<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </a>
 
 <a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </a>
 
 <a href="https://github.com/features/actions">
-<img src="https://skillicons.dev/icons?i=githubactions"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 📈 GitHub Statistics
+## 🎯 Current Focus
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+* Machine Learning
+* Deep Learning
+* Generative AI
+* NLP
+* Computer Vision
+* MLOps
+* AI Deployment
+* Building Production-Ready AI Applications
 
 ---
 
-## 🎯 Current Focus
+## 📈 GitHub Statistics
 
-- Machine Learning
-- Deep Learning
-- NLP
-- Generative AI
-- Computer Vision
-- MLOps
-- AI Deployment
-- Building End-to-End AI Projects
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohanad-Ahmed&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanad-Ahmed&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mohanad-Ahmed&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mohanad-Ahmed&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+[![Mohanad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohanad-Ahmed\&theme=tokyo-night)](https://github.com/Mohanad-Ahmed)
+
+---
+
+## 🚀 Featured Projects
+
+Coming Soon...
+
+* Machine Learning Projects
+* Deep Learning Projects
+* Data Analysis Projects
+* Generative AI Projects
+* End-to-End MLOps Projects
 
 ---
 
 <p align="center">
-⚡ Learning today, building tomorrow.
+💡 "Learning today, building tomorrow."
 </p>
