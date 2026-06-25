@@ -1,46 +1,74 @@
-# 👋 Hi, I'm Mohanad Elkheshen
+<h1 align="center">Hi 👋, I'm Mohanad Elkheshen</h1>
 
-🎓 Artificial Intelligence Student from Egypt
+<h3 align="center">
+Artificial Intelligence Student | Future AI Engineer
+</h3>
 
-💡 Passionate about Machine Learning, Deep Learning, Generative AI, NLP, Computer Vision, Data Science, and MLOps.
+<p align="center">
+Passionate about Machine Learning, Deep Learning, Generative AI, NLP, Computer Vision and MLOps.
+</p>
 
-🚀 Working towards becoming an AI Engineer and building impactful AI systems.
+<p align="center">
+Building my journey toward becoming a world-class AI Engineer and contributing to intelligent systems and robotics.
+</p>
 
 ---
 
-## 📫 Contact Me
+## 🚀 About Me
 
-📧 Email: zzzzx4392@gmail.com
+- 🎓 Artificial Intelligence Student
+- 🐍 Python Developer
+- 📊 Data Analysis & Data Science Enthusiast
+- 🤖 Focused on Machine Learning & Deep Learning
+- 🧠 Interested in LLMs, RAG Systems and AI Agents
+- 👁️ Exploring Computer Vision & NLP
+- ⚙️ Learning MLOps and AI Deployment
+- 🌍 Seeking global AI opportunities
 
-💼 LinkedIn:
-https://www.linkedin.com/in/mohanad-elkheshen-91405434b
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:zzzzx4392@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohanad-elkheshen-91405434b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 ---
 
 ## 💻 Programming Languages
 
-<p align="left">
+<p>
+
 <a href="https://www.python.org/">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python" />
 </a>
 
 <a href="https://isocpp.org/">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=cpp" />
 </a>
 
 <a href="https://www.java.com/">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java" />
 </a>
+
 </p>
 
 ---
 
-## 📊 Data Analysis
+## 📊 Data Analysis & Visualization
 
-<p align="left">
+<p>
 
 <a href="https://pandas.pydata.org/">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://skillicons.dev/icons?i=python" height="48"/>
 </a>
 
 <a href="https://numpy.org/">
@@ -52,7 +80,11 @@ https://www.linkedin.com/in/mohanad-elkheshen-91405434b
 </a>
 
 <a href="https://seaborn.pydata.org/">
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</a>
+
+<a href="https://plotly.com/">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
 </a>
 
 <a href="https://jupyter.org/">
@@ -63,16 +95,12 @@ https://www.linkedin.com/in/mohanad-elkheshen-91405434b
 
 ---
 
-## 🤖 Machine Learning
+## 🤖 Machine Learning & AI
 
-<p align="left">
+<p>
 
 <a href="https://scikit-learn.org/">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-</a>
-
-<a href="https://www.tensorflow.org/">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+<img src="https://skillicons.dev/icons?i=sklearn"/>
 </a>
 
 <a href="https://pytorch.org/">
@@ -83,53 +111,61 @@ https://www.linkedin.com/in/mohanad-elkheshen-91405434b
 
 ---
 
-## 🚀 MLOps & Deployment
+## 🚀 Deployment & MLOps
 
-<p align="left">
+<p>
+
+<a href="https://streamlit.io/">
+<img src="https://skillicons.dev/icons?i=streamlit"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+</a>
 
 <a href="https://fastapi.tiangolo.com/">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+<img src="https://skillicons.dev/icons?i=fastapi"/>
 </a>
 
 <a href="https://www.docker.com/">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
 </a>
 
-<a href="https://aws.amazon.com/">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git"/>
 </a>
 
-<a href="https://kubernetes.io/">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
+<a href="https://github.com/features/actions">
+<img src="https://skillicons.dev/icons?i=githubactions"/>
 </a>
 
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 📈 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Current Focus
 
 - Machine Learning
 - Deep Learning
-- Generative AI
 - NLP
+- Generative AI
 - Computer Vision
 - MLOps
-- FastAPI
-- Docker
-- AWS
-- Kubernetes
+- AI Deployment
+- Building End-to-End AI Projects
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
-
----
-
-⭐ Always learning and building AI projects.
+<p align="center">
+⚡ Learning today, building tomorrow.
+</p>
