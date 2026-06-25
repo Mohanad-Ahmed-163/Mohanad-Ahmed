@@ -12,12 +12,6 @@ Passionate about Machine Learning, Deep Learning, Generative AI, NLP, Computer V
 Building intelligent systems, AI applications, and preparing for a professional career in Artificial Intelligence.
 </p>
 
-<p align="center">
-<a href="https://komarev.com/ghpvc/?username=Mohanad-Ahmed">
-<img src="https://komarev.com/ghpvc/?username=Mohanad-Ahmed&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</a>
-</p>
-
 ---
 
 ## 🌐 Connect With Me
@@ -25,12 +19,28 @@ Building intelligent systems, AI applications, and preparing for a professional 
 <p align="left">
 
 <a href="mailto:zzzzx4392@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-zzzzx4392%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mohanad-elkheshen-91405434b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/mohanad-elkheshen-91405434b/">
+<img src="https://img.shields.io/badge/LinkedIn-Mohanad%20Elkheshen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Artificial Intelligence Student
+- 🐍 Python Developer
+- 📊 Data Analysis & Data Science Enthusiast
+- 🤖 Focused on Machine Learning & Deep Learning
+- 🧠 Interested in LLMs, RAG Systems, AI Agents, and Generative AI
+- 👁️ Exploring Computer Vision and NLP
+- ⚙️ Learning MLOps and AI Deployment
+- 🌍 Looking for Global AI Opportunities
+- 🚀 Building End-to-End AI Projects
 
 
 
